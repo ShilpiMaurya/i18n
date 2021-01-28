@@ -12,7 +12,7 @@ const NavBar = styled.div`
   margin: 0;
 `;
 const Content = styled.h1`
-  background: red;
+  background: yellow;
   color: black;
   padding: 40px;
   margin: 0;
